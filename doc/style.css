@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.side {
+    flex: 50px;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.fakeimg {
+    width: 400px;
+    height: auto;
+}
+
+.main {
+    flex: 50px;
+    padding: 20px;
+}
+
+.navbar a.right {
+    float: right;
+}
+
+
+
